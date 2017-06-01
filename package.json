@@ -2,10 +2,11 @@
   "name": "skinny-atom-syntax",
   "theme": "syntax",
   "version": "1.0.0",
-  "description": "My syntax theme",
+  "description": "A dark syntax theme",
   "keywords": [
     "dark",
-    "blue",
+    "grey",
+    "eighties",
     "syntax"
   ],
   "repository": "https://github.com/joslarson/skinny-atom-syntax",
